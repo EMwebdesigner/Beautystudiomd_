@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-2xl font-bold text-foreground mb-4">
-              <span className="text-primary">AF</span> Brow Studio
+              <span className="text-primary">Beauty Studio</span> MD
             </h3>
             <p className="text-muted-foreground">
               Tu destino de belleza y bienestar. Transformando confianza, un tratamiento a la vez.
@@ -68,7 +68,7 @@ const Footer = () => {
 
         <div className="border-t border-border pt-8 text-center">
           <p className="text-muted-foreground">
-            © {new Date().getFullYear()} AF Brow Studio. Todos los derechos reservados.
+            © {new Date().getFullYear()} Beauty Studio MD. Todos los derechos reservados.
           </p>
           <p className="text-sm text-muted-foreground mt-2">
             <a href="#" className="hover:text-primary transition-colors">

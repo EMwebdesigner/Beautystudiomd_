@@ -20,7 +20,7 @@ const Header = () => {
         <nav className="flex items-center justify-between h-16">
           <div className="flex items-center gap-2">
             <img src={logoImage} alt="AF Brow Studio" className="h-12 w-auto rounded-full object-contain" />
-            <span className="text-xl font-bold text-foreground">AF Brow Studio</span>
+            <span className="text-xl font-bold text-foreground">Beauty Studio MD</span>
           </div>
 
           {/* Desktop Navigation */}

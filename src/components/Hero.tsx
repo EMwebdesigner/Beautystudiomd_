@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Sparkles, Eye, Heart } from "lucide-react";
-import heroImage from "@/assets/hero-af-brow.jpg";
-import heroImageSecondary from "@/assets/hero-spa.jpg";
+import heroImage from "@/assets/bg_hero.png";
+import heroImageSecondary from "@/assets/hero-spa.jpg"; 
 
 const Hero = () => {
   return (
@@ -15,7 +15,7 @@ const Hero = () => {
       
       <div className="relative z-10 container mx-auto px-4 py-20 text-center">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-foreground mb-6 leading-tight">
-          AF Brow Studio: Donde la Belleza<br />
+          Beauty Studio MD: Donde la Belleza<br />
           <span className="text-primary">se Convierte en Confianza</span>
         </h1>
         
